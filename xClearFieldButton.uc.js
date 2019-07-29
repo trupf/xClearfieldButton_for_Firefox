@@ -3,9 +3,9 @@
 // @namespace		xClearFieldButton@iwo.uc.js
 // @description		xClearbutton test
 // @include		main
-// @compatibility	Firefox 56.0+
+// @compatibility	Firefox 67.0+
 // @author		Tobias Rupf
-// @version		0.1
+// @version		0.2
 // @note		build button to clear address bar and search bar fields for use with middle mouse paste as supported by other extensions or linux
 // ==/UserScript==
 
